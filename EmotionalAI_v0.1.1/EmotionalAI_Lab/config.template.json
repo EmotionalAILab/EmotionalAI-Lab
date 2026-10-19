@@ -1,0 +1,10 @@
+{
+  "agent_name": "Emotional",
+  "language": "ru",
+  "database_path": "data/agent_memory.sqlite3",
+  "max_memories_in_context": 5,
+  "memory_min_relevance": 0.08,
+  "emotion_decay": 0.08,
+  "debug_reasoning": true,
+  "online_wikipedia_fallback": false
+}

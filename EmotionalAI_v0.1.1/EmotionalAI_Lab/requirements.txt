@@ -1,0 +1,3 @@
+# Emotional Standalone не требует сторонних Python-пакетов.
+# Нужны Python 3.10+ и Tkinter (обычно входит в Windows installer).
+# Обычный диалог не использует внешний LLM-сервер или ИИ-агент.
